@@ -214,9 +214,9 @@ ___How to approach it:___
 
 
 For further prepare for the system design interview, you can visit the following pages and get to learn more.  
-    •	<a href = https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3 target =_blank >The Complete Guide to Ace the System Design Interview </a>   
-    •	<a href = https://www.designgurus.io/blog/complete-guide-sys-design target =_blank >Ace Your System Design Interview with 7 Must-Read Papers in 2024</a>  
-    •	<a href =https://www.designgurus.io/blog/sys-design-papers target =_blank >System Design Interview Survival Guide (2024): Preparation   Strategies and Practical Tips</a>
+    •	<a href = https://levelup.gitconnected.com/system-design-interview-survival-guide-2023-preparation-strategies-and-practical-tips-ba9314e6b9e3 target ="_blank" >The Complete Guide to Ace the System Design Interview </a>   
+    •	<a href = https://www.designgurus.io/blog/complete-guide-sys-design target ="_blank" >Ace Your System Design Interview with 7 Must-Read Papers in 2024</a>  
+    •	<a href =https://www.designgurus.io/blog/sys-design-papers target ="_blank" >System Design Interview Survival Guide (2024): Preparation   Strategies and Practical Tips</a>
 
 
 
