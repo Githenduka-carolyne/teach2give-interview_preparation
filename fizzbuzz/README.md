@@ -1,3 +1,12 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [FizzBuzz](#fizzbuzz)
+    - [Example](#example)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # FizzBuzz
 A program that outputs the numbers from 1 to 100. For numbers that are multiples of 3, it returns "number - Fizz". 
 For numbers that are multiples of 5, it returns "number - Buzz". 
