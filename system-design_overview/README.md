@@ -1,3 +1,20 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [SYSTEM DESIGN.](#system-design)
+  - [What is the Need for the System Design?](#what-is-the-need-for-the-system-design)
+  - [Essential Design Methods in System Design](#essential-design-methods-in-system-design)
+  - [Basics and Fundamental Concepts of System Design](#basics-and-fundamental-concepts-of-system-design)
+    - [Consistency Patterns](#consistency-patterns)
+    - [Availability Patterns](#availability-patterns)
+  - [Advanced Concepts in System Design.](#advanced-concepts-in-system-design)
+  - [Components of System Design](#components-of-system-design)
+  - [Approaching System Design Interview Questions](#approaching-system-design-interview-questions)
+  - [Sample System Design Interview Questions and Solutions](#sample-system-design-interview-questions-and-solutions)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # SYSTEM DESIGN.
 <b>Definition:</b>A step-by-step process of defining a particular software's architecture, modules, components, etc before starting to write code for the application.  
 
